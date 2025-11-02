@@ -1,5 +1,3 @@
 # -
 # -
-# -
-# host_about
-# c-
+# vision_about
